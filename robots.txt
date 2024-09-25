@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://volditib.github.io/sitemap.volditib.gz
+Sitemap: https://volditib.github.io/app/sitemap.volditib.gz
+Sitemap: https://volditib.github.io/assets/sitemap.volditib.gz
+Sitemap: https://volditib.github.io/css/sitemap.volditib.gz
+Sitemap: https://volditib.github.io/data/sitemap.volditib.gz
+Sitemap: https://volditib.github.io/includes/sitemap.volditib.gz
+Sitemap: https://volditib.github.io/item/sitemap.volditib.gz
+Sitemap: https://volditib.github.io/src/sitemap.volditib.gz
